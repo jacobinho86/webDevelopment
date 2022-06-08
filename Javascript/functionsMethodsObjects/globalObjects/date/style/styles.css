@@ -1,0 +1,18 @@
+body{
+        font-family:arial;
+        Background-color: rgb(185,179,175);}
+
+h1{
+        color: rgb(255,255,255);
+		font-style: normal;
+		font-weight: bold;
+		font-style: italic;
+		font-family: italic;
+}
+
+#date{
+	color: rgb(255,255,0);
+    font-family: monospace;
+    font-size: small;
+    font-weight: bold;
+}

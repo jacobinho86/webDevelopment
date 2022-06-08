@@ -1,0 +1,24 @@
+body{
+        font-family:arial;
+        Background-color: rgb(185,179,175);}
+
+h1{
+        color: rgb(255,255,255);
+		font-style: normal;
+		font-weight: bold;}
+
+h3{
+	    color: rgb(0,0,0);
+		font-style: italic;
+		font-weight: bold;
+		border-width:thick;
+		border-style:solid;
+		border-color:gray;
+		width:155px;
+		height:25px;
+}
+
+span{
+	color: rgb(255,255,0);
+	font-weight: bold;
+}

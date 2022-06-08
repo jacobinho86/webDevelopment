@@ -1,0 +1,24 @@
+
+.bubble1{
+        color: white;
+		background-color:blue;
+		font-weight: bold;
+}
+
+.bubble2{
+        color: white;
+		background-color:green;
+		font-weight: bold;
+}
+
+.bubble3{
+        color: orange;
+		background-color:yellow;
+		font-weight: bold;
+}
+
+.bubble4{
+        color: white;
+		background-color:red;
+		font-weight: bold;
+}

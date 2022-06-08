@@ -1,0 +1,47 @@
+body{
+        font-family:arial;
+        Background-color: rgb(185,179,175);}
+
+h1{
+        color: rgb(255,255,255);
+		font-style: normal;
+		font-weight: bold;
+		font-style: italic;
+		font-family: italic;
+}
+
+.hot{
+	color: red;
+    font-family: Arial;
+    font-size: small;
+    font-weight: bold;
+}
+
+.cold{
+	color: blue;
+    font-family: Times;
+    font-size: small;
+    font-style: italic;
+}
+
+.light{
+	color: gray;
+    font-family: monospace;
+    font-size: small;
+    font-stretch: condensed;	
+}
+
+.heavy{
+	color: black;
+    font-family: serif;
+    font-size: small;
+    font-weight: bold;
+	font-variant: small-caps;
+}
+
+.mike{
+	color: yellow;
+    font-family: Courier New;
+    font-size: small;
+    font-weight: bold;
+}
